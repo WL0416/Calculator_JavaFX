@@ -1,4 +1,6 @@
 # Calculator_JavaFX
 
+Downloading "run.jar" runnable file (JRE required locally) to run the application.
+
 ## Version 1.0
-This app can handle +, -, *, / currently.
+App can handle +, -, *, / currently.
